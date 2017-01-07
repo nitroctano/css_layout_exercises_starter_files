@@ -1,0 +1,42 @@
+main {
+	width:800px;
+	height:500px;
+	background-color: red;
+	margin:60px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	font-size:0;
+}
+
+div {
+	border: 1px solid black;	
+}
+
+.first {
+	height:200px;
+	width:50%;	
+	display:inline-block;
+}
+.first.green{
+	background-color: green;
+}
+.first.blue{
+	background-color: blue;
+}
+.second{
+	height:300px;
+	width:33.33%;
+	display:inline-block;
+
+}
+.second.gray{
+	background-color: gray;
+}
+.second.black{
+	background-color: black;
+}
+.second.orange{
+	background-color: orange;
+}
+
